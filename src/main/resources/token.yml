@@ -1,0 +1,4 @@
+jwt:
+  secret-key: YmVpbmdhcHBsZSBzZWNyZXQgdG9rZW4ga2V5IGZvciBhcHBsaWNhbnQgZXhhbWluYXRpb24=
+  issuer: com.yongbi
+  subject: "authentication token"
